@@ -1,0 +1,1 @@
+# Novo.Hiper.TestesAutomatizados
